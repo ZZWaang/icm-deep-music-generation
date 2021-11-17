@@ -1,21 +1,12 @@
-*.pt
+ec2vae/model_param/*.pt 
+poly_dis/model_param/*.pt 
 .idea
 __pycache__/
 *.out
 result*/
 log/
-params/
 data/
-models/
-stats_data/
-old-models/
-temp_data/
 .DS_Store
-demorun/
-long_demo/
-post/
-bk_models/
-song_demo/
 # Distribution / packaging
 .Python
 build/
