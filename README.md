@@ -11,7 +11,7 @@ This is a *beginner-level* introduction to our two publications for disentangled
 We provide:
 
 * The model architecture implemented in PyTorch. (The code is reformatted and **all the code for training is removed.**)
-* (One-version of) the pre-trained model parameters.
+* (One-version of) the pre-trained model parameters. (Google drive links are provides inside `model_param` folders.)
 * Sample data and a tutorial jupyter notebook.
 
 
